@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariaphotos/static/css/main.cc6f874d.css",
+    "main.js": "/dariaphotos/static/js/main.7455bbf3.js",
+    "index.html": "/dariaphotos/index.html",
+    "main.cc6f874d.css.map": "/dariaphotos/static/css/main.cc6f874d.css.map",
+    "main.7455bbf3.js.map": "/dariaphotos/static/js/main.7455bbf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6f874d.css",
+    "static/js/main.7455bbf3.js"
+  ]
+}
